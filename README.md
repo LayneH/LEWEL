@@ -8,10 +8,14 @@
 This is the official PyTorch implementation of the CVPR'2022 'Learning Where to Learn in Cross-View Self-Supervised Learning'.
 
 
+### Traning & Evaluation
+
+The code is coming in a few days! Please stay tuned.
+
 
 ### Models
 
-We provide the ImageNet-1K pre-trained ResNet-50 models in following table:
+We provide the ImageNet-1K pre-trained ResNet-50 models in the following table:
 
 | Name | Epochs | Top1 ImageNet Val Acc | Model |
 | :---: | :---: | :---: | :---: |
@@ -19,8 +23,7 @@ We provide the ImageNet-1K pre-trained ResNet-50 models in following table:
 | LEWEL_B (EMAN) | 200 | 72.8 | [model](https://drive.google.com/file/d/1ofZjBOAS3IB82Hz-Rt8lW4lqd4nR60ZR/view?usp=sharing) |
 | LEWEL_B (SynBN) | 400 | 73.8 | [model](https://drive.google.com/file/d/13PVJexOZqy3XNEBbmeaVCXdrl9JhAiCN/view?usp=sharing) |
 
-### Traning & Evaluation
-The code is coming in a few days! Please stay tuned.
+
 
 ### License
 
