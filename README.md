@@ -21,7 +21,7 @@ We provide the ImageNet-1K pre-trained ResNet-50 models in the following table:
 | :---: | :---: | :---: | :---: |
 | LEWEL_B (EMAN) | 100 | 71.9 | [model](https://drive.google.com/file/d/12_u_6mR7Fg6YU4lxovL2lBXxXwmQehuK/view?usp=sharing) |
 | LEWEL_B (EMAN) | 200 | 72.8 | [model](https://drive.google.com/file/d/1ofZjBOAS3IB82Hz-Rt8lW4lqd4nR60ZR/view?usp=sharing) |
-| LEWEL_B (SynBN) | 400 | 73.8 | [model](https://drive.google.com/file/d/13PVJexOZqy3XNEBbmeaVCXdrl9JhAiCN/view?usp=sharing) |
+| LEWEL_B (SyncBN) | 400 | 73.8 | [model](https://drive.google.com/file/d/13PVJexOZqy3XNEBbmeaVCXdrl9JhAiCN/view?usp=sharing) |
 
 
 
