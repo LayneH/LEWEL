@@ -32,7 +32,7 @@ srun -p ${PARTITION} \
     --cpus-per-task=${CPUS_PER_TASK} \
     --job-name=${JOB_NAME} --kill-on-bad-exit=1 \
     ${SRUN_ARGS} \
-    ${PYTHON} -u main_byol.py \
+    ${PYTHON} -u main.py \
         --arch ${METHOD} --backbone resnet50_encoder \
         --dataset ${DSET} \
         --lr ${LR} -b ${BS} --wd ${WD} \

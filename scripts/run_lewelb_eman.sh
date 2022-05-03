@@ -23,7 +23,7 @@ NOW=$(date +"%Y%m%d_%H%M%S")
 PYTHON=${PYTHON:-"python"}
 
 ${PYTHON} -u -m torch.distributed.launch --master_port ${PORT} --nproc_per_node=${NPROC} \
-    main_byol.py \
+    main.py \
     --arch ${METHOD} --backbone resnet50_encoder \
     --dataset ${DSET} \
     --data-root ${DATA_ROOT} \
